@@ -16,4 +16,4 @@ than build it. using VS2017.
 referenced
  https://github.com/MicrocontrollersAndMore/OpenCV_3_KNN_Character_Recognition_Cpp
  http://aishack.in/tutorials/sudoku-grabber-opencv-detection/
-https://www.geeksforgeeks.org/backtracking-set-7-suduku/
+ https://www.geeksforgeeks.org/backtracking-set-7-suduku/
